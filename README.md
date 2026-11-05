@@ -1,12 +1,11 @@
 # ChopChop
 
-Chop twice to toggle the flashlight. Compass, spirit level, and magnifier for vivo Origin OS.
+Chop twice for the flashlight, twist twice for the camera, double-tap the back to launch a tool, flip face-down for quiet, and hold three fingers for a screenshot. Compass, level, and magnifier are included.
 
 ## Install
 
-Download [ChopChop.apk](ChopChop.apk) on the phone, allow installs from this source, then open ChopChop and accept camera and location.
+Download [ChopChop.apk](ChopChop.apk) (version 1.1.0). Allow installs from this source, then open ChopChop and accept camera, location, and Do Not Disturb if you want face-down quiet to silence the phone.
 
-Package: `app.chopchop.tools`  
-Version: 1.0.0
+These gestures work while ChopChop is open. Origin OS does not let a normal app replace system gestures in the background.
 
-The APK is debug-signed, so it installs outside the Play Store. Keep the app open while you chop. Origin OS will not run it as a system gesture when the app is closed.
+Package: `app.chopchop.tools`
